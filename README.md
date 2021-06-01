@@ -1,2 +1,2 @@
-# Data-Science-Capstone
+# Coursera-Capstone
 Coursera Applied Data Science Capstone Project
